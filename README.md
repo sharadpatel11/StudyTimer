@@ -8,3 +8,5 @@
   - 5  Min Break
   - 25 Min Study
   - 20 Min Long Break  
+
+![alt text](https://github.com/sharadpatel11/StudyTimer/StudyTimer.png?raw=true)

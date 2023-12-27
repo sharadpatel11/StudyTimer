@@ -10,4 +10,4 @@
   - 20 Min Long Break  
 
 ![alt text](https://github.com/sharadpatel11/StudyTimer/Study_Timer.PNG?raw=true)
-![Screenshot](Study_Timer.png)
+![Screenshot](Study_Timer.PNG)
